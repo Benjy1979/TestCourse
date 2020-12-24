@@ -1,2 +1,4 @@
-Green is sceondary
+Green is secondary
 Orange is a secondary colour
+Purple is secondary
+ 
